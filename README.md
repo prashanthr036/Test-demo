@@ -34,7 +34,7 @@ This is Heading one of Webpage.
 
 ## Displaying Images
 
-![Hosted image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-gcR9eh6qSH6waZoI3bHgrkX8FFKJiHrbPKY9X7Xlb69_3LNGA)
+![Hosted image](https://cdn.pixabay.com/photo/2012/05/29/00/43/car-49278__340.jpg)
 
 ![Hosted image](https://thumbs.mic.com/MWQwZTlmOTI4ZiMvT1JTWnNsMndTZVJnRDVDZjBMM1hNWk1YZm9FPS80Mng0Mjg6Mjk1OHgxOTE5LzgwMHg0NTAvZmlsdGVyczpmb3JtYXQoanBlZyk6cXVhbGl0eSg4MCkvaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3BvbGljeW1pYy1pbWFnZXMvZ2Zyb3A5dHoyajJwd3JoM2R2c3N3dWZmZHJueHQ4NW0xYXdqbnVoNzhmbWF2bmxieXdjbjllZmtreXE2OGNpaS5qcGc.jpg "test image")
 
