@@ -16,14 +16,12 @@ This is Heading one of Webpage.
 1. Python
 1. DBMS
 
-## Bold page Information 
+## Bold Information 
 
-**This is the information about all pages in bold**
+**Welcome to NortWest Missouri State University**
 
 ## Links 
 
-- [Webpage](https://profcase.github.io/working-with-markdown/ "Working With Markdown Webpage")
-- [Source](https://github.com/profcase/working-with-markdown "Working With Markdown Source")
 - [Youtube](https://www.youtube.com/)
 - [Netflix](https://www.netflix.com/)
 
@@ -36,13 +34,13 @@ This is Heading one of Webpage.
 
 ## Displaying Images
 
-
+![Hosted image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-gcR9eh6qSH6waZoI3bHgrkX8FFKJiHrbPKY9X7Xlb69_3LNGA)
 
 ![Hosted image](https://thumbs.mic.com/MWQwZTlmOTI4ZiMvT1JTWnNsMndTZVJnRDVDZjBMM1hNWk1YZm9FPS80Mng0Mjg6Mjk1OHgxOTE5LzgwMHg0NTAvZmlsdGVyczpmb3JtYXQoanBlZyk6cXVhbGl0eSg4MCkvaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3BvbGljeW1pYy1pbWFnZXMvZ2Zyb3A5dHoyajJwd3JoM2R2c3N3dWZmZHJueHQ4NW0xYXdqbnVoNzhmbWF2bmxieXdjbjllZmtreXE2OGNpaS5qcGc.jpg "test image")
 
 ## Paragraphs
 
-In computing, a web application or web app is a client–server computer program which the client (including the user interface and client-side logic) runs in a web browser. Common web applications include webmail, online retail sales, and online auction.
+In computing, a web application or web app is a client–server computer program which the client runs in a web browser. Common web applications include webmail, online retail sales, and online auction.
 
 ##  About
 
